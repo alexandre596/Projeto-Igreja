@@ -1,0 +1,135 @@
+<mockup version="1.0" skin="sketch" measuredW="1171" measuredH="800" mockupW="1024" mockupH="800">
+  <controls>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::TitleWindow" x="147" y="0" w="1024" h="800" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>63</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>true</maximizeRestore>
+        <minimize>true</minimize>
+        <text>1%AA%20Igreja%20Batista%20em%20Ourinhos</text>
+        <topheight>28</topheight>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="151" y="142" w="1015" h="500" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderStyle>roundedSolid</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="150" y="50" w="1017" h="687" measuredW="1024" measuredH="800" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../Prototipa%25C3%25A7%25C3%25A3o/Imagens/Fundo.PNG</src>
+        <text>Logo%20da%20Igreja</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Button" x="181" y="59" w="170" h="75" measuredW="175" measuredH="42" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <href>Finan%E7as%20-%20Back%20PrincAdmGeral%26bm%3BFinan%E7as%20-%20Back%20PrincAdmGeral.bmml%26bm%3BFinan%E7as%20-%20Back%20PrincAdmGeral.bmml%26bm%3BFinan%E7as%20-%20Back%20PrincAdmGeral.bmml</href>
+        <icon>DollarIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2234%2C59%2C204%2C134%22%20href%3D%22Finan%25C3%25A7as%2520-%2520Back%2520PrincAdmGeral.bmml%22%20alt%3D%22Finan%E7as%20-%20Back%20PrincAdmGeral%22%20id%3D%226%22/%3E</map>
+        <size>32</size>
+        <state>up</state>
+        <text>Finan%E7as</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Button" x="566" y="59" w="187" h="75" measuredW="184" measuredH="42" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <icon>BookIcon%7Csmall</icon>
+        <size>32</size>
+        <text>Biblioteca</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Button" x="357" y="59" w="202" h="75" measuredW="200" measuredH="42" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <href>Secretaria%20-%20Back%20PrincAdmGeral%26bm%3BSecretaria%20-%20Back%20PrincAdmGeral.bmml%26bm%3BSecretaria%20-%20Back%20PrincAdmGeral.bmml%26bm%3BSecretaria%20-%20Back%20PrincAdmGeral.bmml</href>
+        <icon>CommentsIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22210%2C59%2C412%2C134%22%20href%3D%22Secretaria%2520-%2520Back%2520PrincAdmGeral.bmml%22%20alt%3D%22Secretaria%20-%20Back%20PrincAdmGeral%22%20id%3D%228%22/%3E</map>
+        <size>32</size>
+        <text>Secretaria</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Button" x="941" y="59" w="196" h="75" measuredW="193" measuredH="42" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <icon>CopyIcon%7Csmall</icon>
+        <size>32</size>
+        <text>Relat%F3rios</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="575" y="651" w="237" h="75" measuredW="241" measuredH="42" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Administrador%20-%20Back%20PrincAdmGeral%26bm%3BAdministrador%20-%20Back%20PrincAdmGeral.bmml%26bm%3BAdministrador%20-%20Back%20PrincAdmGeral.bmml%26bm%3BAdministrador%20-%20Back%20PrincAdmGeral.bmml</href>
+        <icon>WorldIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22428%2C651%2C665%2C726%22%20href%3D%22Administrador%2520-%2520Back%2520PrincAdmGeral.bmml%22%20alt%3D%22Administrador%20-%20Back%20PrincAdmGeral%22%20id%3D%2210%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>32</size>
+        <state>up</state>
+        <text>Administrador</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="760" y="59" w="173" h="75" measuredW="159" measuredH="42" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <icon>ClockIcon%7Csmall</icon>
+        <size>32</size>
+        <text>Agenda</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::MenuBar" x="149" y="23" w="1020" h="29" measuredW="502" measuredH="29" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>Principal%20-%20AdmGeral%20-%20Menu%20Administrador%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Administrador.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Administrador.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Administrador.bmml%2CPrincipal%20-%20AdmGeral%20-%20Menu%20Finan%E7as%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Finan%E7as.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Finan%E7as.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Finan%E7as.bmml%2CPrincipal%20-%20AdmGeral%20-%20Menu%20Secretaria%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Secretaria.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Secretaria.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Secretaria.bmml%2CPrincipal%20-%20AdmGeral%20-%20Menu%20Biblioteca%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Biblioteca.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Biblioteca.bmml%26bm%3BPrincipal%20-%20AdmGeral%20-%20Menu%20Biblioteca.bmml%2CPrincipal%20-%20AdmGeral%26bm%3BPrincipal%20-%20AdmGeral.bmml%26bm%3BPrincipal%20-%20AdmGeral.bmml%26bm%3BPrincipal%20-%20AdmGeral.bmml%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2220%2C29%2C111%2C50%22%20href%3D%22Principal%2520-%2520AdmGeral%2520-%2520Menu%2520Administrador.bmml%22%20alt%3D%22Principal%20-%20AdmGeral%20-%20Menu%20Administrador%22%20id%3D%2212_0%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22120%2C29%2C183%2C50%22%20href%3D%22Principal%2520-%2520AdmGeral%2520-%2520Menu%2520Finan%25C3%25A7as.bmml%22%20alt%3D%22Principal%20-%20AdmGeral%20-%20Menu%20Finan%E7as%22%20id%3D%2212_1%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22192%2C29%2C268%2C50%22%20href%3D%22Principal%2520-%2520AdmGeral%2520-%2520Menu%2520Secretaria.bmml%22%20alt%3D%22Principal%20-%20AdmGeral%20-%20Menu%20Secretaria%22%20id%3D%2212_2%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22277%2C29%2C346%2C50%22%20href%3D%22Principal%2520-%2520AdmGeral%2520-%2520Menu%2520Biblioteca.bmml%22%20alt%3D%22Principal%20-%20AdmGeral%20-%20Menu%20Biblioteca%22%20id%3D%2212_3%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22355%2C29%2C413%2C50%22%20href%3D%22Principal%2520-%2520AdmGeral.bmml%22%20alt%3D%22Principal%20-%20AdmGeral%22%20id%3D%2212_4%22/%3E%0A</map>
+        <selectedIndex>-1</selectedIndex>
+        <text>Administrador%2C%20Finan%E7as%2C%20Secretaria%2C%20Biblioteca%2C%20Agenda%2C%20Relat%F3rios</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="298" y="651" w="262" h="75" measuredW="259" measuredH="42" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Trocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check%26bm%3BTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check.bmml%26bm%3BTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check.bmml%26bm%3BTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check.bmml</href>
+        <icon>AIMIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22151%2C651%2C413%2C726%22%20href%3D%22Trocar%2520Usu%25C3%25A1rio%2520-%2520Back%2520AdmGeral%2520-%2520no%2520check.bmml%22%20alt%3D%22Trocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check%22%20id%3D%2213%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>32</size>
+        <text>Trocar%20Usu%E1rio</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="827" y="651" w="173" h="75" measuredW="129" measuredH="42" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <color>16777215</color>
+        <icon>LightBulbIcon%7Csmall</icon>
+        <size>32</size>
+        <text>Ajuda</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextArea" x="147" y="737" w="1024" h="63" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>1</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <color>16777215</color>
+        <size>13</size>
+        <state>up</state>
+        <text>Desenvolvedores%3A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20%20%20%20%20%20%20%20%20%20%20Endere%E7o%20da%20Igreja%3A%20Av.%20Rodrigues%20Alves%2C%20249%20-%20Centro%20Ourinhos/SP%20CEP.%2019.907.270%0A%20%20%20%20%20%20%20%20Fulano%20-%20Tel.%3A%20xxxx-xxxx%20/%20xxxx-xxxx%20%20%20E-mail%3A%20bl%E1bl%E1bl%E1@bl%E1.com%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Cx.%20P.%20277%20Tel.%3A%20%2814%29%203324-1030%20/%203026-4050%0A%20%20%20%20%20%20%20%20Beltrano%20-%20Tel.%3A%20xxxx-xxxx%20/%20xxxx-xxxx%20%20%20E-mail%3A%20tectectec@tec.com%20%20%20%20%20%20%20%20%20%20%7C%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20Site%3A%20www.pibourinhos.com.br%20%20%20%20%20%20%20%20%20E-mail%3A%20pib.ourinhos@ig.com.br</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Menu" x="504" y="50" w="317" h="-1" measuredW="150" measuredH="115" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2CTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check%26bm%3BTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check.bmml%26bm%3BTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check.bmml%26bm%3BTrocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22357%2C139%2C674%2C160%22%20href%3D%22Trocar%2520Usu%25C3%25A1rio%2520-%2520Back%2520AdmGeral%2520-%2520no%2520check.bmml%22%20alt%3D%22Trocar%20Usu%E1rio%20-%20Back%20AdmGeral%20-%20no%20check%22%20id%3D%2217_0%22/%3E%0A</map>
+        <text>Visualizar%20Agenda%2CF7%0ACadastrar%20compromissos%20do%20Pastor%2CCTRL+G+P%0ACadastrar%20Eventos%2CCTRL+G+E%0AAjuda%2CF1%0ATrocar%20usu%E1rio%2CF5</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="162" y="149" w="994" h="487" measuredW="650" measuredH="300" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <src>../Prototipa%25C3%25A7%25C3%25A3o/Imagens/Logo%2520PIB.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
